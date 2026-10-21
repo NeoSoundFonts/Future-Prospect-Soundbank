@@ -1,3 +1,7 @@
+# 2026-10-22
+
+- Added Saw Wave and Ecological Pluck.
+
 # 2026-10-21
 
 Starting Development:
