@@ -1,3 +1,8 @@
+# 2026-10-30
+
+- Added Upright Piano (Schulmann).
+- Adde reverb parameters for each instruments.
+
 # 2026-10-22
 
 - Added Saw Wave and Ecological Pluck.
