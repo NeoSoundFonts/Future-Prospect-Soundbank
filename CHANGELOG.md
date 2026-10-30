@@ -1,7 +1,10 @@
 # 2026-10-30
 
 - Added Upright Piano (Schulmann).
-- Adde reverb parameters for each instruments.
+- Added reverb parameters for each instruments.
+- Added Flute Atmosphere 1.
+- Added Analog Brass.
+- Changed attenuation for Meditation Pad.
 
 # 2026-10-22
 
