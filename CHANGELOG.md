@@ -1,10 +1,14 @@
+# 2026-10-31
+
+- Added FM Electric Piano, with separate layers.
+
 # 2026-10-30
 
 - Added Upright Piano (Schulmann).
 - Added reverb parameters for each instruments.
 - Added Flute Atmosphere 1.
 - Added Analog Brass.
-- Changed attenuation for Meditation Pad.
+- Changed attenuation for Noise Layer of Meditation Pad.
 
 # 2026-10-22
 
