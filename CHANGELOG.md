@@ -1,6 +1,10 @@
 # 2026-10-31
 
 - Added FM Electric Piano, with separate layers.
+- Moved Ecological Synth Bass 1 to Program 33.
+- Added 5th Atmosphere Pad.
+- Added Analog Kick and Snare.
+- Added Ecological Synth Bass 2.
 
 # 2026-10-30
 
