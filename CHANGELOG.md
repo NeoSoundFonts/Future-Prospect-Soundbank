@@ -1,3 +1,8 @@
+# 2026-11-02
+
+- Added Dream Guitar 1 (Wavetables from AKWF, Sample Attack from GT Classical Guitar).
+- Added Dream Guitar 2 (Same sample attack, sustain from SSC-500).
+
 # 2026-10-31
 
 - Added FM Electric Piano, with separate layers.
