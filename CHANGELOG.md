@@ -1,3 +1,8 @@
+# 2026-11-03
+
+- Added Girl Voice, made with Oatmeal.
+- Added Future Violin.
+
 # 2026-11-02
 
 - Added Dream Guitar 1 (Wavetables from AKWF, Sample Attack from GT Classical Guitar).
