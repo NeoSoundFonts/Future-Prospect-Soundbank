@@ -2,6 +2,10 @@
 
 - Added Dream Guitar 1 (Wavetables from AKWF, Sample Attack from GT Classical Guitar).
 - Added Dream Guitar 2 (Same sample attack, sustain from SSC-500).
+- Added Dream Harp.
+- Added Ecological Synth Bass 3.
+- Added Sine Wave 2, importing wavetables from AKWF.
+- Added Flute Atmosphere 2.
 
 # 2026-10-31
 
