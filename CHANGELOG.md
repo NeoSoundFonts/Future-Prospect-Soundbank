@@ -2,6 +2,8 @@
 
 - Added Girl Voice, made with Oatmeal.
 - Added Future Violin.
+- Added Atmosphere Pad (GT Classical Guitar + IdO Warm Pad).
+- Added Analog Piano.
 
 # 2026-11-02
 
