@@ -1,3 +1,12 @@
+# 2026-11-05
+
+- Added Synth Toms from CC0 Italo Disco Set.
+
+# 2026-11-04
+
+- Improved Analog Piano.
+- Added SF2 modulators for Note Key to Filter Cutoff to Saw and Saw-Square mix instrument layers.
+
 # 2026-11-03
 
 - Added Girl Voice, made with Oatmeal.
