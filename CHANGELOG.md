@@ -1,6 +1,7 @@
 # 2026-11-05
 
-- Added Synth Toms from CC0 Italo Disco Set.
+- Added Synth Toms from CC0 Italo Disco Set (made by Yingchun Soul).
+- Added Hand Clap (from VCSL), Solarpunk Kick and Snare (made by Yingchun Soul; Snare edited from CC0 Italo Disco set), Hi-Hats, and Side Stick (these from Karoryfer Big Rusty Drums).
 
 # 2026-11-04
 
