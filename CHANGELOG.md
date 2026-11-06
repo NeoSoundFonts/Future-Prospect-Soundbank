@@ -1,3 +1,12 @@
+# 2026-11-06
+
+- Renamed Analog Brass (Warm Version) to Analog Bass 2.
+- Added Analog Brass 1.
+- Added two saw wave samples.
+- Added Sweet Heaven, recreated with ZynAddSubFX (made by Yingchun Soul) and VSCO-2 CE Glockenspiel layer. Resampled using LMMS.
+- Added Cymbals from Karoryfer Big Rusty Drums.
+- Added Pedal Hi-Hat using Closed Hi-Hat samples, with attack envelope.
+
 # 2026-11-05
 
 - Added Synth Toms from CC0 Italo Disco Set (made by Yingchun Soul).
@@ -5,6 +14,7 @@
 - Added Synth Strings.
 - Added Future Violin 2, which is darker.
 - Improved Girl's Voice.
+- Added Upright Piano p.
 
 # 2026-11-04
 
