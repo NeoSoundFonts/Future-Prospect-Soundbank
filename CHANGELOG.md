@@ -6,6 +6,7 @@
 - Added Sweet Heaven, recreated with ZynAddSubFX (made by Yingchun Soul) and VSCO-2 CE Glockenspiel layer. Resampled using LMMS.
 - Added Cymbals from Karoryfer Big Rusty Drums.
 - Added Pedal Hi-Hat using Closed Hi-Hat samples, with attack envelope.
+- Added Dream Oud.
 
 # 2026-11-05
 
