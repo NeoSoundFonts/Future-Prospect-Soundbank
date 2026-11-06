@@ -7,6 +7,7 @@
 - Added Cymbals from Karoryfer Big Rusty Drums.
 - Added Pedal Hi-Hat using Closed Hi-Hat samples, with attack envelope.
 - Added Dream Oud.
+- Added Triangle Wave and Triangle Bells.
 
 # 2026-11-05
 
