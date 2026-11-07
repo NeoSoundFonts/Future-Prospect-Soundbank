@@ -6,6 +6,7 @@ Samples imported from:
 - Karoryfer Big Rusty Drums
 - Versilian Community Sample Library
 - VS Chamber Orchestra 2: Community Edition
+- Osiris Piano
 
 Wavetables imported from:
 
