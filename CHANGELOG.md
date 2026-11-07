@@ -2,6 +2,7 @@
 
 - Resampled Sweet Heaven from scratch.
 - Added Ambient Piano, created by using Osiris Piano.
+- Moved Upright Piano to Program 1.
 
 # 2026-11-06
 
