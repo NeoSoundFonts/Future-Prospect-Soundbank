@@ -1,3 +1,12 @@
+# 2026-11-09
+
+- Added Sticks from VSCO-2 CE.
+- Added Mapex Hi-Hats to Future Drum Kit 2.
+
+# 2026-11-08
+
+- Sweet Heaven is now in individual layers.
+
 # 2026-11-07
 
 - Resampled Sweet Heaven from scratch.

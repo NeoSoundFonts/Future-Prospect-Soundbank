@@ -7,6 +7,7 @@ Samples imported from:
 - Versilian Community Sample Library
 - VS Chamber Orchestra 2: Community Edition
 - Osiris Piano
+- Mapex Hi-Hats
 
 Wavetables imported from:
 
