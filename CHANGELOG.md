@@ -1,7 +1,8 @@
 # 2026-11-09
 
 - Added Sticks from VSCO-2 CE.
-- Added Mapex Hi-Hats to Future Drum Kit 2.
+- Added Mapex Hi-Hats (Processed with various filters and EQ's) to Future Drum Kit 2.
+- Added Ambient Kicks, Snares, Clap, and Analog Stick to Future Drum Kit 2.
 
 # 2026-11-08
 
