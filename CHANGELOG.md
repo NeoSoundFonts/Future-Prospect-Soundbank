@@ -3,6 +3,12 @@
 - Added Sticks from VSCO-2 CE.
 - Added Mapex Hi-Hats (Processed with various filters and EQ's) to Future Drum Kit 2.
 - Added Ambient Kicks, Snares, Clap, and Analog Stick to Future Drum Kit 2.
+- Added Soft Saw Wave.
+- Made Analog Piano's generator match to The Soundbank of Future Prospects (Old 2026 Version, which uses Polyphone).
+- Added another Ecological Synth Bass (Base layer made with TripleOsciliator with Inverter plugin, the default LADSPA plugin of LMMS).
+- Added Soft Bass.
+- Changed Filter Cutoff for Saw Wave in the base instrument layer, as well as all preset using its layer.
+- Renamed Ecological Synth Bass 3 to Synth Bass.
 
 # 2026-11-08
 
