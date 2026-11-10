@@ -1,6 +1,8 @@
 # 2026-11-10
 
 - Added Future Wave and Future Electric Piano.
+- Tweaked Closed Hi-Hat 2 in the Future Drum Kit.
+- Added Square Wave.
 
 # 2026-11-09
 
