@@ -2,6 +2,7 @@
 
 - Added Future Wave and Future Electric Piano.
 - Tweaked Closed Hi-Hat 2 in the Future Drum Kit.
+- Added another Synth Strings, which is brighter.
 - Added Square Wave.
 
 # 2026-11-09
