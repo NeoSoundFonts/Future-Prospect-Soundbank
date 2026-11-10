@@ -1,3 +1,7 @@
+# 2026-11-10
+
+- Added Future Wave and Future Electric Piano.
+
 # 2026-11-09
 
 - Added Sticks from VSCO-2 CE.
@@ -8,7 +12,8 @@
 - Added another Ecological Synth Bass (Base layer made with TripleOsciliator with Inverter plugin, the default LADSPA plugin of LMMS).
 - Added Soft Bass.
 - Changed Filter Cutoff for Saw Wave in the base instrument layer, as well as all preset using its layer.
-- Renamed Ecological Synth Bass 3 to Synth Bass.
+- Renamed one of the Ecological Synth Bass to Synth Bass.
+- Added Analog Piano 2, which is warmer.
 
 # 2026-11-08
 
