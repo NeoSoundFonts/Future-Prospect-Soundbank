@@ -1,3 +1,9 @@
+# 2026-11-11
+
+- Added another Ambient Snare to Future Drum Kit 2.
+- Added Ambient Clap.
+- Added Another Sidestick from Big Rusty Drums.
+
 # 2026-11-10
 
 - Added Future Wave and Future Electric Piano.
